@@ -1,0 +1,25 @@
+HANDOFF
+turns: 7
+learns by: examples in context, with contrasting cases and visual aids
+domain: point processes | level: 2 | milestone: none | anchor: none
+inhomogeneous Poisson process | claim: no | prior: none | end: deployed | "That type of function represents an inhomogeneous poisson process because the rate isn't the same"
+intensity function | claim: no | prior: none | end: deployed | "creating an intensity function lambda that will make the model the closest fit"
+compensator | claim: no | prior: none | end: unused | no quote
+thinning | claim: no | prior: none | end: unused | no quote
+time-rescaling theorem | claim: no | prior: none | end: unused | no quote
+domain: statistical inference | level: 2 | milestone: none | anchor: log-likelihood
+log-likelihood | claim: yes | prior: incorrect | end: introduced | "by increasing log L"
+maximum likelihood estimate | claim: no | prior: none | end: introduced | "creating an intensity function lambda that will make the model the closest fit"
+quadrature | claim: no | prior: none | end: introduced | no quote
+unconstrained parameterization | claim: no | prior: none | end: unused | no quote
+QQ plot | claim: no | prior: none | end: unused | no quote
+Kolmogorov–Smirnov statistic | claim: no | prior: none | end: unused | no quote
+identifiability | claim: no | prior: none | end: unused | no quote
+profile likelihood | claim: no | prior: none | end: unused | no quote
+other deployed: homogeneous, observation window
+other open: Fano factor, overdispersed
+domain: solar cycle physics | level: 1 | milestone: none | anchor: none
+emergence rate | claim: no | prior: none | end: deployed | "there are more events happening, so it's a higher intensity/rate of emergence"
+onset | claim: no | prior: none | end: unused | no quote
+other deployed: s
+other open: none
